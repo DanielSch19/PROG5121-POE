@@ -1,0 +1,16 @@
+[
+  {
+    "messageID": "0447090004",
+    "messageText": "send this",
+    "recipientCell": "+27710020030",
+    "sender": "Unknown",
+    "messageNumber": 1
+  },
+  {
+    "messageID": "0447100006",
+    "messageText": "store this",
+    "recipientCell": "+27710030040",
+    "sender": "Unknown",
+    "messageNumber": 2
+  }
+]

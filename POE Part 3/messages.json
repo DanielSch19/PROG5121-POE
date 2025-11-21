@@ -1,0 +1,23 @@
+[
+  {
+    "messageID": "1184850001",
+    "messageText": "Hi how are ya",
+    "recipientCell": "+27123456788",
+    "sender": "Dan_1",
+    "messageNumber": 1
+  },
+  {
+    "messageID": "1716630002",
+    "messageText": "Did you get the cake",
+    "recipientCell": "+27123456780",
+    "sender": "Dan_1",
+    "messageNumber": 2
+  },
+  {
+    "messageID": "2061150003",
+    "messageText": "Where are you",
+    "recipientCell": "+27838884567",
+    "sender": "Dan_1",
+    "messageNumber": 3
+  }
+]
